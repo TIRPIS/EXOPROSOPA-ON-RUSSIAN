@@ -1,0 +1,11 @@
+name: "EXOPROSORA НА РУССКОМ"
+description:
+'''
+100% фаргус перевод!
+'''
+author: "THT 2"
+minGameVersion: 158.1
+version: "0.1"
+displayName: "EXSOPROSORA НА РУССКОМ"
+subtitle: "Добавляет русский перевод для мода Exoprosora"
+repo: "TIRPIS/EXOPROSORA НА РУССКОМ"
